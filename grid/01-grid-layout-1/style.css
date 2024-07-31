@@ -13,7 +13,8 @@ html {
   box-sizing: border-box;
 
   display: grid;
-  grid-template: 100px 100px 300px 300px 100px /340px 340px 340px 340px 340px;
+  grid-template: 100px 100px 290px 290px 100px /340px 340px 340px 340px 340px;
+  gap: 15px;
 }
 
 .container div {
@@ -46,7 +47,7 @@ html {
 }
 
 .footer {
-  background-color: #7d88a2;
+  background-color: #584863;
   grid-area: 5 / 2 / 5 / span 4;
 }
 
