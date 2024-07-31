@@ -4,6 +4,7 @@ html {
   margin: 0;
   display: flex;
   justify-content: center;
+  background: rgb(4, 4, 82);
 }
 
 .container {
@@ -13,7 +14,7 @@ html {
   box-sizing: border-box;
 
   display: grid;
-  grid-template: 100px 100px 290px 290px 100px /340px 340px 340px 340px 340px;
+  grid-template: 100px 100px 290px 290px 100px /260px 260px 260px 260px 260px;
   gap: 15px;
 }
 
@@ -33,7 +34,7 @@ html {
 
 .sidebar {
   background-color: #c08ee4;
-  grid-area: 2 / 1 / 6;
+  grid-area: 2 / 1 / 5;
 }
 
 .nav {
@@ -48,7 +49,7 @@ html {
 
 .footer {
   background-color: #584863;
-  grid-area: 5 / 2 / 5 / span 4;
+  grid-area: 5 / 1 / 5 / span 5;
 }
 
 .article p {
