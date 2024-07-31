@@ -26,27 +26,27 @@ html {
 }
 
 .header {
-  background-color: #006157;
+  background-color: #5b1d88;
   grid-area: 1 / 1 / 2 / 6;
 }
 
 .sidebar {
-  background-color: #005b94;
+  background-color: #c08ee4;
   grid-area: 2 / 1 / 6;
 }
 
 .nav {
-  background-color: #642cde;
+  background-color: #9b45d8;
   grid-area: 2 / 2 / 3 / 6;
 }
 
 .article {
-  background-color: #7e1dc3;
+  background-color: #7f559d;
   grid-area: 3 / 2 / 5 /6;
 }
 
 .footer {
-  background-color: #393f4d;
+  background-color: #7d88a2;
   grid-area: 5 / 2 / 5 / span 4;
 }
 
