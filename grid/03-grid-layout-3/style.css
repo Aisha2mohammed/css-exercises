@@ -31,11 +31,6 @@
 
 .sidebar {
   background-color: #c50208;
-<<<<<<< HEAD
-=======
-  display: grid;
-  grid-template: repeat(4 1fr) / 1fr;
->>>>>>> 7fa86e7bce590d3636f105d874a985b84648dec1
 }
 
 .sidebar .photo {
